@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test4</folder>
+	<filename>18237429_web1_190829-TDT-M-webster.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test4\18237429_web1_190829-TDT-M-webster.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>23</ymin>
+			<xmax>305</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
