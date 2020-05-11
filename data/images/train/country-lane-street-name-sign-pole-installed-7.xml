@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>country-lane-street-name-sign-pole-installed-7.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\country-lane-street-name-sign-pole-installed-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>156</ymin>
+			<xmax>449</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

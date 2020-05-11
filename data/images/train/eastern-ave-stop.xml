@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>eastern-ave-stop.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\eastern-ave-stop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>97</ymin>
+			<xmax>729</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

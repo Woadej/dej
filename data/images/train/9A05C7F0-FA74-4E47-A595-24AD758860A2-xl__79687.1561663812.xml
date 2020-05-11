@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>9A05C7F0-FA74-4E47-A595-24AD758860A2-xl__79687.1561663812.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\9A05C7F0-FA74-4E47-A595-24AD758860A2-xl__79687.1561663812.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>93</ymin>
+			<xmax>527</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

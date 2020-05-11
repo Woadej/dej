@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>2706432-bright-school-crossing-road-sign-close-up-.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\2706432-bright-school-crossing-road-sign-close-up-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>27</ymin>
+			<xmax>764</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
