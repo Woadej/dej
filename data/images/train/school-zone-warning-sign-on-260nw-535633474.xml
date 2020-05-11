@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>school-zone-warning-sign-on-260nw-535633474.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\school-zone-warning-sign-on-260nw-535633474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>112</ymin>
+			<xmax>740</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

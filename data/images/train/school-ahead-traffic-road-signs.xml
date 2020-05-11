@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>school-ahead-traffic-road-signs.png</filename>
+	<path>C:\Users\Woradej\Desktop\train4\school-ahead-traffic-road-signs.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>56</ymin>
+			<xmax>566</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>
